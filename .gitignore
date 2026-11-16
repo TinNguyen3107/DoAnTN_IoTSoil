@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build output
+frontend/dist/
+
+# Environment / secrets
+.env
+.env.local
+.env.*.local
+
+# Browser profiles from design-preview harnesses
+design-preview-2026-11-10/.app-browser-profile/
+design-preview-2026-11-10/.pop-browser-profile/
+design-preview-2026-11-10/.preview-browser-profile/
+
+# Logs & OS junk
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel/

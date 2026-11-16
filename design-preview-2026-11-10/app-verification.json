@@ -1,0 +1,302 @@
+{
+  "shots": [
+    {
+      "name": "01-login-desktop",
+      "h1": "Hiểu đất.\nChăm cây.",
+      "chars": 492,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [
+        "svg.[object SVGAnimatedString]|",
+        "g.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|"
+      ],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "02-login-mobile",
+      "h1": "Hiểu đất.Chăm cây.",
+      "chars": 311,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [
+        "svg.[object SVGAnimatedString]|",
+        "g.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|"
+      ],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "03-admin-landing",
+      "h1": "Một góc nhìn toàn hệ thống.",
+      "chars": 1326,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab0",
+      "h1": "Một góc nhìn toàn hệ thống.",
+      "chars": 1326,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab1",
+      "h1": "Hiểu đất. Chăm cây.",
+      "chars": 675,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab2",
+      "h1": "Nhìn toàn bộ trạm đo.",
+      "chars": 837,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab3",
+      "h1": "Chưa có trạm để phân tích.",
+      "chars": 604,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab4",
+      "h1": "Những gì cần được nhìn lại.",
+      "chars": 813,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab5",
+      "h1": "Ghi lại việc chăm vườn.",
+      "chars": 859,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab6",
+      "h1": "Chưa có trạm để tư vấn.",
+      "chars": 619,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab7",
+      "h1": "Quản lý người dùng.",
+      "chars": 1032,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab8",
+      "h1": "Dải ngưỡng an toàn của đất.",
+      "chars": 1647,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "10-admin-tab9",
+      "h1": "Hằng số nông học của hệ thống.",
+      "chars": 1179,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "90-admin-mobile-landing",
+      "h1": "Hằng số nông học của hệ thống.",
+      "chars": 1056,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [
+        "ASIDE.app-sidebar |Quan trắc đấtAgroPrecision · IoTVận hànhTổng ",
+        "DIV.sidebar-brand|Quan trắc đấtAgroPrecision · IoT",
+        "DIV.brand|Quan trắc đấtAgroPrecision · IoT",
+        "svg.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|"
+      ],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "admin-mobile-drawer",
+      "h1": "open=false closedAfterBackdrop=true",
+      "chars": 0,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0
+    },
+    {
+      "name": "03-farmer-landing",
+      "h1": "Hiểu đất. Chăm cây.",
+      "chars": 588,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "20-farmer-tab0",
+      "h1": "Hiểu đất. Chăm cây.",
+      "chars": 588,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "20-farmer-tab1",
+      "h1": "Mỗi trạm, một góc vườn.",
+      "chars": 752,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "20-farmer-tab2",
+      "h1": "Chưa có trạm để phân tích.",
+      "chars": 514,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "20-farmer-tab3",
+      "h1": "Những gì cần được nhìn lại.",
+      "chars": 731,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "20-farmer-tab4",
+      "h1": "Ghi lại việc chăm vườn.",
+      "chars": 777,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "20-farmer-tab5",
+      "h1": "Chưa có trạm để tư vấn.",
+      "chars": 537,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "90-farmer-mobile-landing",
+      "h1": "Chưa có trạm để tư vấn.",
+      "chars": 409,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [
+        "ASIDE.app-sidebar |Quan trắc đấtAgroPrecision · IoTVườn của tôiT",
+        "DIV.sidebar-brand|Quan trắc đấtAgroPrecision · IoT",
+        "DIV.brand|Quan trắc đấtAgroPrecision · IoT",
+        "svg.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|",
+        "path.[object SVGAnimatedString]|"
+      ],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    },
+    {
+      "name": "farmer-mobile-drawer",
+      "h1": "open=false closedAfterBackdrop=true",
+      "chars": 0,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0
+    },
+    {
+      "name": "95-drawer-device-create",
+      "h1": "Mỗi trạm, một góc vườn.",
+      "chars": 1095,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "offenders": [],
+      "oldTokens": 0,
+      "bodyBg": "rgb(248, 248, 243)",
+      "h1Font": "Cambria, Georgia, \"Times New Roman\", ser"
+    }
+  ],
+  "problems": []
+}

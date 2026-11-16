@@ -1,0 +1,306 @@
+{
+  "report": [
+    {
+      "view": "monitor",
+      "title": "AgroPrecision · 01 · A — Giám sát của nông dân",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 1122,
+      "file": "01-monitor.png"
+    },
+    {
+      "view": "lab",
+      "title": "AgroPrecision · 02 · B — Trạm quan trắc",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 987,
+      "file": "02-lab.png"
+    },
+    {
+      "view": "harvest",
+      "title": "AgroPrecision · 03 · C — Mùa vụ",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 751,
+      "file": "03-harvest.png"
+    },
+    {
+      "view": "admin",
+      "title": "AgroPrecision · 04 · Tổng quan quản trị",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 1430,
+      "file": "04-admin.png"
+    },
+    {
+      "view": "fertilizer",
+      "title": "AgroPrecision · 05 · Tư vấn phân bón",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 1237,
+      "file": "05-fertilizer.png"
+    },
+    {
+      "view": "crops",
+      "title": "AgroPrecision · 06 · Cây trồng phù hợp",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 972,
+      "file": "06-crops.png"
+    },
+    {
+      "view": "history",
+      "title": "AgroPrecision · 07 · Lịch sử & CSV",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 835,
+      "file": "07-history.png"
+    },
+    {
+      "view": "logs",
+      "title": "AgroPrecision · 08 · Nhật ký canh tác",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 937,
+      "file": "08-logs.png"
+    },
+    {
+      "view": "alerts",
+      "title": "AgroPrecision · 09 · Xử lý cảnh báo",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 861,
+      "file": "09-alerts.png"
+    },
+    {
+      "view": "devices",
+      "title": "AgroPrecision · 10 · Trạm đo của nông dân",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 939,
+      "file": "10-devices.png"
+    },
+    {
+      "view": "admin-devices",
+      "title": "AgroPrecision · 11 · Quản lý trạm toàn hệ thống",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 1429,
+      "file": "11-admin-devices.png"
+    },
+    {
+      "view": "users",
+      "title": "AgroPrecision · 12 · Người dùng & phân quyền",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 1297,
+      "file": "12-users.png"
+    },
+    {
+      "view": "thresholds",
+      "title": "AgroPrecision · 13 · Ngưỡng cảnh báo",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 976,
+      "file": "13-thresholds.png"
+    },
+    {
+      "view": "settings",
+      "title": "AgroPrecision · 14 · Tham số nông học",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 1057,
+      "file": "14-settings.png"
+    },
+    {
+      "view": "login",
+      "title": "AgroPrecision · 15 · Đăng nhập",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 532,
+      "file": "15-login.png"
+    },
+    {
+      "view": "register",
+      "title": "AgroPrecision · 16 · Đăng ký",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 557,
+      "file": "16-register.png"
+    },
+    {
+      "view": "handheld",
+      "title": "AgroPrecision · 17 · Cầm tay & trạng thái trống",
+      "clip": {
+        "x": 35,
+        "y": 73,
+        "width": 1440,
+        "height": 1000,
+        "scale": 1
+      },
+      "overflow": [],
+      "brokenImages": 0,
+      "badText": false,
+      "contentLength": 830,
+      "file": "17-handheld.png"
+    },
+    {
+      "view": "comparison",
+      "file": "00-comparison.png",
+      "galleryCheck": {
+        "adminFilterCount": 5,
+        "modalOpened": true,
+        "modalClosed": true,
+        "brokenImages": 0
+      }
+    }
+  ],
+  "fonts": {
+    "fonts": [
+      {
+        "familyName": "Cambria",
+        "postScriptName": "Cambria",
+        "isCustomFont": false,
+        "glyphCount": 23
+      }
+    ]
+  },
+  "golden": {
+    "monitorToFertilizer": true,
+    "fertilizerToCrops": true
+  },
+  "currentApp": {
+    "title": "AgroPrecision IoT — Nền Tảng Giám Sát Đất & Tối Ưu Phân Bón",
+    "heading": "Đăng Nhập Hệ Thống",
+    "bodyLength": 325
+  },
+  "errors": []
+}

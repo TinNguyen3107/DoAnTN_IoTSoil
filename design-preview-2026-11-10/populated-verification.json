@@ -1,0 +1,225 @@
+{
+  "shots": [
+    {
+      "name": "admin-00-landing",
+      "h1": "Một góc nhìn toàn hệ thống.",
+      "chars": 1401,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 3,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-00-Tổng-quan-hệ-thống",
+      "h1": "Một góc nhìn toàn hệ thống.",
+      "chars": 1401,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 3,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-01-Số-đo-hiện-tại",
+      "h1": "Hiểu đất. Chăm cây.",
+      "chars": 2252,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 0,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-02-Thiết-bị-3",
+      "h1": "Nhìn toàn bộ trạm đo.",
+      "chars": 1341,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 3,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-03-Lịch-sử-dữ-liệu",
+      "h1": "Diễn biến đất theo thời gian.",
+      "chars": 1876,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 7,
+      "charts": 3,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-04-Cảnh-báo-2",
+      "h1": "Những gì cần được nhìn lại.",
+      "chars": 1368,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 0,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-05-Nhật-ký",
+      "h1": "Ghi lại việc chăm vườn.",
+      "chars": 1173,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 0,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-06-Tư-vấn",
+      "h1": "Cần bón bao nhiêu là đủ.",
+      "chars": 1948,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 6,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-07-Tài-khoản",
+      "h1": "Quản lý người dùng.",
+      "chars": 1055,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 2,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-08-Ngưỡng-cảnh-báo",
+      "h1": "Dải ngưỡng an toàn của đất.",
+      "chars": 1660,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 7,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-09-Hệ-số-tính-toán",
+      "h1": "Hằng số nông học của hệ thống.",
+      "chars": 1188,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 0,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-crops-subtab",
+      "h1": "Đất này hợp với cây gì.",
+      "chars": 1687,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 0,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-crop-to-fertilizer",
+      "h1": "Cần bón bao nhiêu là đủ.",
+      "chars": 1948,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 6,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-fertilizer-crop-change",
+      "h1": "Cần bón bao nhiêu là đủ.",
+      "chars": 1948,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 6,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "admin-mobile-analytics",
+      "h1": "Diễn biến đất theo thời gian.",
+      "chars": 1643,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 7,
+      "charts": 3,
+      "oldTokens": 0
+    },
+    {
+      "name": "farmer-00-landing",
+      "h1": "Hiểu đất. Chăm cây.",
+      "chars": 2166,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 0,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "farmer-00-Tổng-quan",
+      "h1": "Hiểu đất. Chăm cây.",
+      "chars": 2166,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 0,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "farmer-01-Thiết-bị-3",
+      "h1": "Mỗi trạm, một góc vườn.",
+      "chars": 1246,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 3,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "farmer-02-Lịch-sử",
+      "h1": "Diễn biến đất theo thời gian.",
+      "chars": 1790,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 7,
+      "charts": 3,
+      "oldTokens": 0
+    },
+    {
+      "name": "farmer-03-Cảnh-báo-2",
+      "h1": "Những gì cần được nhìn lại.",
+      "chars": 1282,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 0,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "farmer-04-Nhật-ký",
+      "h1": "Ghi lại việc chăm vườn.",
+      "chars": 1087,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 0,
+      "charts": 0,
+      "oldTokens": 0
+    },
+    {
+      "name": "farmer-05-Tư-vấn",
+      "h1": "Cần bón bao nhiêu là đủ.",
+      "chars": 1862,
+      "mojibake": false,
+      "horizontalOverflow": 0,
+      "rows": 6,
+      "charts": 0,
+      "oldTokens": 0
+    }
+  ],
+  "problems": []
+}
